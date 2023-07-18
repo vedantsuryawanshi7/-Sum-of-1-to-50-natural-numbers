@@ -1,5 +1,6 @@
 # -Sum-of-1-to-50-natural-numbers
 Java program of Sum of 1 to 50 natural numbers
+
 public class SumOfNumbers {
     public static void main(String[] args) {
         int sum = 0;
